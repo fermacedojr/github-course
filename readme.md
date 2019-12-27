@@ -6,4 +6,6 @@ Este é um repositório teste para mostrar a funcionalidade do git
 Saiba mais no link abaixo:
 [NeoCognitiva](https://neocognitiva.com.br)
 
-Gostou do curso, quer mais, ajude com uma doação, até um café vale =)
+Gostou do curso, quer mais, ajude com uma doação, até um café até =)
+
+[Colocar link para doação]()
